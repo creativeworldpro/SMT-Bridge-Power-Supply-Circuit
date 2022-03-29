@@ -19,15 +19,25 @@ Feature of bridge power supply SMT PCBs -
 12V power supplies (or 12VDC power supplies) are one of the most common power supplies in use today. 
 
 Uses of DC-12v SMT PCBs
+
 	 Cell Phones
+
 	Tablets
+
 	FM broadcasters
+
 	Bluetooth hands-free devices
+
 	Flashlight
+
 	Hybrid and electric vehicles
+
 	LED/LCD monitor
+
 	Operate laptop
+
 	Making a cooling fan
+
 	To make amplifier
 
 -------------------------------
@@ -87,23 +97,23 @@ To order your SMT PCBs, visit - https://cart.jlcpcb.com/quote?orderType=1&stenci
 
 They currently provide the below shipping options.
  
-Carrier                                    Estimated Delivery Time    	
+Carrier                         Estimated Delivery Time    	
 
-DHL International Express                   3-5 business days     	
+DHL International Express........ 3-5 business days     	
 
-UPS Worldwide Saver                         3-6 business days	
+UPS Worldwide Saver........ 3-6 business days	
 
-S.F Express(Standard)                       5-8 business days	
+S.F Express(Standard)........ 5-8 business days	
 
-S.F Express(Economy)                        8-15 business days	
+S.F Express(Economy)........ 8-15 business days	
 
-Singapore EMS                               8-15 business days	
+Singapore EMS........8-15 business days	
 
-PostLink Registered Mail                    15-20 business days	
+PostLink Registered Mail........ 15-20 business days	
 
-ePacket                                     15-25 business days	
+ePacket........ 15-25 business days	
 
-Registered Air Mail                         15-20 business days	
+Registered Air Mail........ 15-20 business days	
 
 -------------------------------
 
